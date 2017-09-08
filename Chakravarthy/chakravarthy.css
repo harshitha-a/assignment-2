@@ -1,0 +1,86 @@
+.background {
+	background-image: url('rectangle-2.png');
+}
+
+.nav-bg {
+	background-color: rgba(52,48,57,0.7);
+}
+
+.navbar-dark .navbar-nav .active .nav-link{
+	color: #ea9d00;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+	color: white;
+}
+
+.button {
+	padding: 9.5px 20px;
+}
+
+.footer-card{
+	background-color: #ea9d00;
+}
+
+.bg{
+	background-color: #532bfe;
+	position: relative;
+	border-radius: 5px;
+}
+
+.image-text{
+	position: absolute;
+	top: 20%;
+	left: 10%;
+}
+
+.para{
+	line-height: 2.5;
+}
+
+.course1{
+	background-color: #00cad1;
+	border-radius: 10px;
+}
+
+.course2{
+	background-color: #f6323d;
+	border-radius: 10px;
+}
+
+.course3{
+	background-color: #6980a8;
+	border-radius: 10px;
+}
+
+.course4{
+	background-color: #fea748;
+	border-radius: 10px;
+}
+
+.ellipse{
+	position: relative;
+}
+
+.youtube{
+	position: absolute;
+	top: 41%;
+	left: 18.5%;
+}
+
+.notifications{
+	position: absolute;
+	top: 39%;
+	left: 40%;
+}
+
+.people{
+	background-color: #532bfe;
+	position: relative;
+}
+
+.people-text{
+	position: absolute;
+	top: 50%;
+	left: 20%;
+}

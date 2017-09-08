@@ -1,0 +1,80 @@
+.controls {
+	width: 3.5%;
+} 
+
+.carousel-img{
+	background-color: rgb(0,0,0);
+}
+
+.input-carousel{
+	position: absolute;
+	top: 55%;
+	left: 30%;
+}
+
+.trending-items{
+	background-color: rgba(0,0,0,0.85);
+	padding: 40px;
+}
+
+.carousel-indicators li {
+	width: 5px;
+	height: 5px;
+	border-radius: 100%;
+	background-color: white;
+}
+
+.carousel-indicators .active{
+	background-color: rgba(223,53,69,1);
+}
+
+.card-border{
+	border: none;
+	border-radius: 0px;
+}
+
+.carousel-bg{
+	background-color: rgba(127,127,127,0.15);
+}
+
+.product-img{
+	padding: 50px;
+	padding-bottom: 70px;
+	height: 250px;
+}
+
+.store-location{
+	background-color: rgba(127,127,127,0.15);
+}
+
+.btn-border{
+	border-radius: 0px;
+}
+
+.font{
+	font-size: 14px;
+	border: 1px solid rgba(127,127,127,0.3);
+}
+
+.customers-image{
+	position: absolute;
+	top: 20%;
+	right: 7%;
+}
+
+.pashiopecks{
+	background-color: #f20045;
+}
+
+.font-size{
+	font-size: 13px;
+}
+
+.testimonials-img{
+	background-image: url("ellipse-8.png");
+	background-repeat: no-repeat;
+}
+
+.footer{
+	background-color: rgba(0,0,0,0.85);
+}
